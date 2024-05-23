@@ -1,3 +1,3 @@
-module github.com/unicornchance/redesigned-lamp/docs
+module github.com/unicornchance/redesigned-lamp
 
 go 1.20
