@@ -4,8 +4,6 @@ type: docs
 weight: 1
 ---
 
-TESTING COMMENT
-
 UDS Core provides a foundational set of applications that form the backbone of a secure and efficient mission environment. Each application addresses critical aspects of microservices communication, monitoring, logging, security, compliance, and data protection. These applications are essential for establishing a reliable runtime environment and ensuring that mission-critical applications operate seamlessly.
 
 By leveraging these applications within UDS Core, users can confidently deploy and operate source packages that meet stringent security and performance standards. UDS Core provides the applications and flexibility required to achieve diverse mission objectives, whether in cloud, on-premises, or edge environments. UDS source packages cater to the specific needs of Mission Heroes and their mission-critical operations. Below are some of the key applications offered by UDS Core:
