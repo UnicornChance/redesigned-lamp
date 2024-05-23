@@ -1,3 +1,3 @@
-module github.com/defenseunicorns/uds-core/docs
+module github.com/unicornchance/redesigned-lamp/docs
 
 go 1.20
