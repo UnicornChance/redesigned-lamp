@@ -4,7 +4,7 @@ type: docs
 weight: 1
 ---
 
-TESTING
+TESTING 12
 
 UDS Core provides a foundational set of applications that form the backbone of a secure and efficient mission environment. Each application addresses critical aspects of microservices communication, monitoring, logging, security, compliance, and data protection. These applications are essential for establishing a reliable runtime environment and ensuring that mission-critical applications operate seamlessly.
 
