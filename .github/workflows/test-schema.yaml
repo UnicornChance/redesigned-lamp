@@ -1,0 +1,26 @@
+name: Validate Schema
+on:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@a5ac7e51b41094c92402da3b24376905380afc29 # v4.1.6
+
+      - name: Setup golang
+        uses: ./.github/actions/golang
+
+      - name: Install UDS CLI
+        uses: ./.github/actions/install-uds-cli
+
+      - name: Docs and schemas
+        run: uds run schema:test
+
+      - name: Save logs
+        if: always()
+        uses: ./.github/actions/save-logs
