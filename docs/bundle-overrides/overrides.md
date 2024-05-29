@@ -148,7 +148,7 @@ There are 3 ways to override the `UI_COLOR` variable:
     ```
   {{% alert-danger %}}
   Because Helm override variables and Zarf variables share the same --set syntax, be careful with variable names to avoid conflicts.
-  {{% alert-danger %}}
+  {{% /alert-danger %}}
 
 {{% alert-note %}}
 A variable that is not overridden by any of the methods above and has no default will be ignored.
