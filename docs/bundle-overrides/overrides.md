@@ -146,9 +146,9 @@ There are 3 ways to override the `UI_COLOR` variable:
     # to specify a specific package that the variable should apply to you can prepend th package name to the variable
     uds deploy example-bundle --set helm-overrides-package.ui_color=green
     ```
-{{% alert-danger %}}
-    Because Helm override variables and Zarf variables share the same --set syntax, be careful with variable names to avoid conflicts.
-{{% /alert-danger %}}
+  {{% alert-danger %}}
+  Because Helm override variables and Zarf variables share the same --set syntax, be careful with variable names to avoid conflicts.
+  {{% /alert-danger %}}
 
 {{% alert-note %}}
 A variable that is not overridden by any of the methods above and has no default will be ignored.
