@@ -1,0 +1,9 @@
+testSecret: "dGVzdC1zZWNyZXQ=" # test-secret
+podinfo:
+  ui:
+    color: "purple"
+    message: "Hello from podinfo"
+
+  # doesn't do anything, just testing more configs
+  ingress:
+    enabled: true
