@@ -64,7 +64,8 @@
     {   
         "description": "Group Github Actions updates.",
         "matchPaths": [".github/**"],
-        "groupName": "GHA-DEPS"
+        "groupName": "GHA-DEPS",
+        "matchManagers": ["regex"]
     }
   ],
   "regexManagers":[
@@ -74,8 +75,7 @@
          "https:\\/\\/raw\\.githubusercontent\\.com\\/(?<depName>[^\\/]+\\/[^\\/]+)\\/(?<currentValue>[^\\/]+)"
       ],
       "versioningTemplate": "semver-coerced",
-      "datasourceTemplate": "github-tags",
-      "groupName": "GHA-DEPS"
+      "datasourceTemplate": "github-tags"
     }  
   ]
 }
