@@ -1,6 +1,8 @@
 # Integration Testing For UDS Identity Config + UDS Core
 [Cypress Web Flow/Integration Testing Docs](https://docs.cypress.io/guides/overview/why-cypress)
 
+## TESTING
+
 ## Implemented Tests
 | Test Name (link) | Test Description |
 |------------------|------------------|
