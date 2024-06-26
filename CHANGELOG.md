@@ -1,5 +1,32 @@
 # Changelog
 
+## [0.4.6](https://github.com/UnicornChance/redesigned-lamp/compare/v0.4.5...v0.4.6) (2024-06-26)
+
+
+### Bug Fixes
+
+* add alert warning ([7639b88](https://github.com/UnicornChance/redesigned-lamp/commit/7639b88981c61f5963a2d01b2033c5ee7e685431))
+* add doc change ([65808aa](https://github.com/UnicornChance/redesigned-lamp/commit/65808aad861863cd2102add757ad9ec6571a48ca))
+* another update ([37f375e](https://github.com/UnicornChance/redesigned-lamp/commit/37f375e73ee7f0f4b29b08465095a2cbce3e7e2f))
+* indentation ([f2135f5](https://github.com/UnicornChance/redesigned-lamp/commit/f2135f555671c880ae9d5fad05efb743f06c7173))
+* init cli ([0cb33f0](https://github.com/UnicornChance/redesigned-lamp/commit/0cb33f0d09cf2c6eef06cd70fce60de41a990e7c))
+* init identity-config ([0b8cd91](https://github.com/UnicornChance/redesigned-lamp/commit/0b8cd91ea9c9d1d734eb2d8c2a3ed0423a4cf5b5))
+* init identity-config ([b4f1a55](https://github.com/UnicornChance/redesigned-lamp/commit/b4f1a55badc42fdfb541c54c1769c05e97e6e148))
+* init uds-cli ([9b4e81d](https://github.com/UnicornChance/redesigned-lamp/commit/9b4e81db656ac5c8d3a35b41e926c415c6be81b6))
+* move go.mod to docs ([886baa5](https://github.com/UnicornChance/redesigned-lamp/commit/886baa5d226d2b83bd0c29a567d9b9a943bd7b5a))
+* remove go.mod ([11406b3](https://github.com/UnicornChance/redesigned-lamp/commit/11406b373f629bcce26d41073922a59240d683f2))
+* remove testing comment ([0d81a82](https://github.com/UnicornChance/redesigned-lamp/commit/0d81a82871f197b040b8dc8db00377ffd53b1f1e))
+* remove testing comment ([f819a6c](https://github.com/UnicornChance/redesigned-lamp/commit/f819a6cd39705e7ad9aba98f4b8e5967c3e58ac7))
+* remove testing doc changes ([fe5cbae](https://github.com/UnicornChance/redesigned-lamp/commit/fe5cbaea38b6d90edd0a2190b9305f19ec99d481))
+* renovate ([52d779a](https://github.com/UnicornChance/redesigned-lamp/commit/52d779a285766179bcc48c2d3f476ab0e0dd2dab))
+* test ([d1abbfe](https://github.com/UnicornChance/redesigned-lamp/commit/d1abbfe323db6d36bd8518885d7650be5a3040dd))
+* test ([61ddf44](https://github.com/UnicornChance/redesigned-lamp/commit/61ddf4457dd6753339924fdd51f9c226cce29ddd))
+* unclosed alert ([d2851b6](https://github.com/UnicornChance/redesigned-lamp/commit/d2851b6f4ff6374c068334188426f88dead6191e))
+* update ([8533c47](https://github.com/UnicornChance/redesigned-lamp/commit/8533c47470eed62650ddef9935d4f2ef0d7f641b))
+* update docs ([4336cfd](https://github.com/UnicornChance/redesigned-lamp/commit/4336cfd33cc9a02a44ae9c3582afd4178edcf1a9))
+* update renovate ([640d6f3](https://github.com/UnicornChance/redesigned-lamp/commit/640d6f36c1650b3bfe18ffc003e15b40ec478acf))
+* update to alert danger ([1140f55](https://github.com/UnicornChance/redesigned-lamp/commit/1140f55ac91ee93d0c21e86756116a490952688f))
+
 ## [0.4.5](https://github.com/defenseunicorns/uds-identity-config/compare/v0.4.4...v0.4.5) (2024-06-06)
 
 
